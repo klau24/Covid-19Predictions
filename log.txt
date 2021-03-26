@@ -1,0 +1,32 @@
+Everyone
+    -Brainstorm different datasets we could use
+    -What type of machine learning model we wanted to use
+    -Meeting and analyzing results
+    -Work on presentation, report, and log
+
+    Total time = 6 hours
+
+Kenny
+    -Implementing Holt's Linear Trend Model
+    -Data visualization
+
+    Total time = 4 hours
+
+Eddie
+    -Implementing the Auto Regressive Integrated Moving Average Model
+    -Data cleanup and extraction
+
+    Total time = 5 hours
+
+Elaine
+    -Implemented Bayesian Ridge Regression model
+    -Data Visualization
+
+    Total time = 4.5 hours
+
+John
+    -Implemented Linear Regression model
+    -Implemented Support Vector Regressor model
+
+    Total time = 4 hours
+
